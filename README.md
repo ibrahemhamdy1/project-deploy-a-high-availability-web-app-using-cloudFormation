@@ -9,4 +9,6 @@
 
 > ./create.sh ibrahimhamdyserver servers.yml server-parameters.json
 
+# For update
+
 > ./update.sh ibrahimhamdyserver servers.yml server-parameters.json
