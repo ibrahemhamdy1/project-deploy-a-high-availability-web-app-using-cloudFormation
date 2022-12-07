@@ -270,7 +270,7 @@ Resources:
           apt-get install apache2 -y
           systemctl start apache2.service
           cd var/www/html
-          echo " it works ! Ibrahim Hamdy project works" >> index.html
+          echo "it works! Udagram, Udacity ! Ibrahim Hamdy project works" >> index.html
       ImageId: ami-052efd3df9dad4825
       IamInstanceProfile: !Ref ProfileWithRolesForOurApp
       SecurityGroups:
