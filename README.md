@@ -6,8 +6,7 @@
 
 ```
 # How to deploy the server:
-Run;
-```sh
+
 > ./create.sh ibrahimhamdyserver servers.yml server-parameters.json
 
 > ./update.sh ibrahimhamdyserver servers.yml server-parameters.json
